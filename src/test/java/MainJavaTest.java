@@ -5,12 +5,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class MainJavaTest {
 
     @Test
-    public void TestString (){
-    String testCase = "Hello";
-    int length = 4;
-    boolean result = MainJava.GreaterThan(testCase, length);
-    assertEquals(true,result);
-    // This is a comment for testing
+    public void TestString() {
+        String testCase = "Hello";
+        int length = 4;
+        boolean result = MainJava.GreaterThan(testCase, length);
+        assertEquals(true, result);
+        // This is a comment for testing
+        // Because I screwed up, try 2
 
     }
 }
