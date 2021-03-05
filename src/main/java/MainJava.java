@@ -4,4 +4,5 @@ public class MainJava {
         boolean result = word.length()>length;
         return result;
     }
+	// Java ist toll
 }
